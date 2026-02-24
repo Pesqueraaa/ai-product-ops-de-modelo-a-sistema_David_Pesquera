@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+A1 AI Product Ops
+2
+.venv/
+.env
